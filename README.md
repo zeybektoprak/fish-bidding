@@ -2,6 +2,12 @@
 
 A web application built for Balıklıova Seafood Cooperative to run and manage a live auction flow.
 
+## Images
+
+![bmc](./bmc.png)
+
+![jackson](./jackson.png)
+
 - **Backend:** FastAPI + SQLAlchemy + SQLite
 - **Frontend:** React + Vite
 - **Live updates:** WebSocket (lot activation, bids, sold/unsold)
